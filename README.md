@@ -9,7 +9,7 @@
  1. **_React (Redux, MobX, Zustand, Next)_**
  2. **_Vue (Vuex, Pinia, Nuxt)_**
  3. **_Angular (NgRx)_**
- 4. **_HTML, SCC (SCSS, LESS), JS (TS)_**
+ 4. **_HTML, CSS (SCSS, LESS), JS (TS)_**
 
 ###### My codewars:  
 [![codewars](https://www.codewars.com/users/Loginovsky%20Max/badges/large)](https://www.codewars.com/users/Loginovsky%20Max) 
