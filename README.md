@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=273849&multiline=true&width=900&lines=My+name+is+Max%2C+I'+m+a+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41b883&multiline=true&width=900&lines=My+name+is+Max%2C+I'+m+a+Frontend+Developer)](https://git.io/typing-svg)
 ### ✉ Contacts
 <p>
     <a href="mailto:frakiec3600@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
