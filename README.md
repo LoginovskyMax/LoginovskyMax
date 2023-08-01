@@ -2,7 +2,7 @@
 
 ### ✉ Contacts
 <p>
-    <a href="frakiec3600@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:frakiec3600@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://t.me/LoginovskyMax"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
@@ -10,10 +10,11 @@
  1. React (Redux, MobX, Zustand, Next)
  2. Vue (Vuex, Pinia, Nuxt)
  3. Angular (NgRx)
+ 4. HTML, SCC (SCSS, LESS), JS (TS)
 
 
 ###### My codewars:  
 [![codewars](https://www.codewars.com/users/Loginovsky%20Max/badges/large)](https://www.codewars.com/users/Loginovsky%20Max) 
 
 ##### Thank you for visiting my Github profile, have a nice day with the joke
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=react)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=IT)
